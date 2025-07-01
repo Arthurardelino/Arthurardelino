@@ -1,6 +1,6 @@
 # Olá! Sou o Arthur Souza 🖐
 
-**`Desenvolvedor Web Full-Stack`**
+**`Desenvolvedor Web Junior Full-Stack`**
 
 Me chamo Arthur, tenho 18 anos. Sou um fan nato de programação, não tenho experiencias profissionais no momento, apenas faço projetos para estudo e diversão. 
 
@@ -129,6 +129,4 @@ Me chamo Arthur, tenho 18 anos. Sou um fan nato de programação, não tenho exp
         style=" padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurardelino&theme=dracula&layout=compact&custom_title=technologies&langs_count=5"
     />
-
-  
 </p>
