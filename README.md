@@ -75,6 +75,22 @@ Me chamo Arthur, tenho 18 anos. Sou um fan nato de programação, não tenho exp
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+<img
+    align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
+<img
+    align="left" 
+    alt="MYSQL"
+    title="MYSQL" 
+    width="40px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
 <img 
     align="left" 
     alt="SASS" 
@@ -98,6 +114,22 @@ Me chamo Arthur, tenho 18 anos. Sou um fan nato de programação, não tenho exp
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img
+    align="left"
+    alt="PHP"
+    title="PHP"
+    width="30px"
+    sytle="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+<img
+    align="left"
+    alt="VERCEL"
+    title="VERCEL"
+    width="40px"
+    sytle="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg"
 />
 
 <br/>
