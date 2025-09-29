@@ -1,6 +1,6 @@
 # Olá! Sou o Arthur Souza 🖐
 
-**`Desenvolvedor Web Junior Full-Stack`**
+**`Desenvolvedor Júnior`**
 
 Me chamo Arthur, tenho 18 anos. Sou um fan nato de programação, não tenho experiencias profissionais no momento, apenas faço projetos para estudo e diversão. 
 
