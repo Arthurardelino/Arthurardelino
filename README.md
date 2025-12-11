@@ -91,6 +91,14 @@ Me chamo Arthur, tenho 18 anos. Sou um fan nato de programação, não tenho exp
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
+<img
+    align="left" 
+    alt="C"
+    title="C" 
+    width="40px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>
 <img 
     align="left" 
     alt="SASS" 
